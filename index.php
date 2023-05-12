@@ -30,14 +30,14 @@
                     <i class='bx bx-movie-play bx-tada main-color'></i>Fl<span class="main-color">i</span>x
                 </a>
                 <ul class="nav-menu" id="nav-menu">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Genre</a></li>
-                    <li><a href="#">Movies</a></li>
+                    <li><a href="#">Pagina Inicial</a></li>
+                    <li><a href="#">Genero</a></li>
+                    <li><a href="#">Filmes</a></li>
                     <li><a href="#">Series</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="#">Sobre</a></li>
                     <li>
                         <a href="#" class="btn btn-hover">
-                            <span>Sign in</span>
+                            <span>Login</span>
                         </a>
                     </li>
                 </ul>
@@ -81,12 +81,12 @@
                                 </div>
                             </div>
                             <div class="item-content-description top-down delay-4">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, possimus eius. Deserunt non odit, cum vero reprehenderit laudantium odio vitae autem quam, incidunt molestias ratione mollitia accusantium, facere ab suscipit.
+                            Conheça a história de T'Challa, príncipe do reino de Wakanda, que perde o seu pai e viaja para os Estados Unidos, onde tem contato com os Vingadores. Entre as suas habilidades estão a velocidade, inteligência e os sentidos apurados.
                             </div>
                             <div class="item-action top-down delay-6">
                                 <a href="#" class="btn btn-hover">
                                     <i class="bx bxs-right-arrow"></i>
-                                    <span>Watch now</span>
+                                    <span>Assista agora</span>
                                 </a>
                             </div>
                         </div>
@@ -119,12 +119,12 @@
                                 </div>
                             </div>
                             <div class="item-content-description top-down delay-4">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, possimus eius. Deserunt non odit, cum vero reprehenderit laudantium odio vitae autem quam, incidunt molestias ratione mollitia accusantium, facere ab suscipit.
+                            Kara chega à Terra aos 12 anos, depois de partir do planeta Krypton, e é adotada pela família Danvers - que a ensina a ser cuidadosa com seus poderes. Depois de represar suas habilidades por uma década, Kara é forçada a mostrar seus dons em público, durante um desastre inesperado.
                             </div>
                             <div class="item-action top-down delay-6">
                                 <a href="#" class="btn btn-hover">
                                     <i class="bx bxs-right-arrow"></i>
-                                    <span>Watch now</span>
+                                    <span>Assista agora</span>
                                 </a>
                             </div>
                         </div>
@@ -157,12 +157,13 @@
                                 </div>
                             </div>
                             <div class="item-content-description top-down delay-4">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, possimus eius. Deserunt non odit, cum vero reprehenderit laudantium odio vitae autem quam, incidunt molestias ratione mollitia accusantium, facere ab suscipit.
+                          
+A premissa já é algo surreal de contar: Wanda (Elizabeth Olsen) e Visão (Paul Bettany) vão para o subúrbio norte-americano, onde levam uma vida comum de casados, passando por estilos de diferentes décadas de sticoms. Porém, obviamente, nem tudo é o que parece e o público é levado a investigar essa realidade
                             </div>
                             <div class="item-action top-down delay-6">
                                 <a href="#" class="btn btn-hover">
                                     <i class="bx bxs-right-arrow"></i>
-                                    <span>Watch now</span>
+                                    <span>Assista agora</span>
                                 </a>
                             </div>
                         </div>
@@ -946,12 +947,12 @@
                         </div>
                     </div>
                     <div class="item-content-description">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, possimus eius. Deserunt non odit, cum vero reprehenderit laudantium odio vitae autem quam, incidunt molestias ratione mollitia accusantium, facere ab suscipit.
+                    O destino da humanidade está em jogo quando duas raças de robôs, os Autobots e os vilões Decepticons, chegam à Terra. Os robôs possuem a capacidade de se transformarem em diferentes objetos mecânicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam.
                     </div>
                     <div class="item-action">
                         <a href="#" class="btn btn-hover">
                             <i class="bx bxs-right-arrow"></i>
-                            <span>Watch now</span>
+                            <span>Assista Agora</span>
                         </a>
                     </div>
                 </div>
@@ -973,21 +974,21 @@
                             <div class="pricing-box">
                                 <div class="pricing-box-header">
                                     <div class="pricing-name">
-                                        Basic
+                                        Basico
                                     </div>
                                     <div class="pricing-price">
                                         Free
                                     </div>
                                 </div>
                                 <div class="pricing-box-content">
-                                    <p>Originals</p>
-                                    <p>Swich plans anytime</p>
-                                    <p><del>65+ top Live</del></p>
+                                    <p>Originais</p>
+                                    <p>Troque de planos a qualquer momento</p>
+                                    <p><del>65+ início Ao vivo</del></p>
                                     <p><del>TV Channels</del></p>
                                 </div>
                                 <div class="pricing-box-action">
                                     <a href="#" class="btn btn-hover">
-                                        <span>Register now</span>
+                                        <span>Registra-se</span>
                                     </a>
                                 </div>
                             </div>
@@ -999,18 +1000,18 @@
                                         Premium
                                     </div>
                                     <div class="pricing-price">
-                                        $35.99 <span>/month</span>
+                                        R$200,00 <span>/Mês</span>
                                     </div>
                                 </div>
                                 <div class="pricing-box-content">
-                                    <p>Originals</p>
-                                    <p>Swich plans anytime</p>
-                                    <p><del>65+ top Live</del></p>
+                                    <p>Originais</p>
+                                    <p>Troque de planos a qualquer momento</p>
+                                    <p><del>65+ início Ao vivo</del></p>
                                     <p><del>TV Channels</del></p>
                                 </div>
                                 <div class="pricing-box-action">
                                     <a href="#" class="btn btn-hover">
-                                        <span>Register now</span>
+                                        <span>Registra-se</span>
                                     </a>
                                 </div>
                             </div>
@@ -1022,18 +1023,18 @@
                                         VIP
                                     </div>
                                     <div class="pricing-price">
-                                        $65.99 <span>/month</span>
+                                        R$70,00 <span>/Mês</span>
                                     </div>
                                 </div>
                                 <div class="pricing-box-content">
-                                    <p>Originals</p>
-                                    <p>Swich plans anytime</p>
-                                    <p><del>65+ top Live</del></p>
+                                    <p>Originais</p>
+                                    <p>Troque de planos a qualquer momento</p>
+                                    <p><del>65+ início Ao vivo</del></p>
                                     <p><del>TV Channels</del></p>
                                 </div>
                                 <div class="pricing-box-action">
                                     <a href="#" class="btn btn-hover">
-                                        <span>Register now</span>
+                                        <span>Registra-se</span>
                                     </a>
                                 </div>
                             </div>
@@ -1055,7 +1056,7 @@
                             <i class='bx bx-movie-play bx-tada main-color'></i>Fl<span class="main-color">i</span>x
                         </a>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut veniam ex quos hic id nobis beatae earum sapiente! Quod ipsa exercitationem officiis non error illum minima iusto et. Dolores, quibusdam?
+                           FLIX é um serviço online de streaming norte-americano de vídeo sob demanda por assinatura lançado em 2010, disponível em mais de 190 países. Em março de 2023 superou 232 milhões de assinantes globalmente
                         </p>
                         <div class="social-list">
                             <a href="#" class="social-item">
@@ -1076,10 +1077,10 @@
                             <div class="content">
                                 <p><b>Flix</b></p>
                                 <ul class="footer-menu">
-                                    <li><a href="#">About us</a></li>
-                                    <li><a href="#">My profile</a></li>
-                                    <li><a href="#">Pricing plans</a></li>
-                                    <li><a href="#">Contacts</a></li>
+                                    <li><a href="#">Sobre nós</a></li>
+                                    <li><a href="#">Meu perfil</a></li>
+                                    <li><a href="#">Planos de preços</li>
+                                    <li><a href="#">Contatos</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1087,10 +1088,10 @@
                             <div class="content">
                                 <p><b>Browse</b></p>
                                 <ul class="footer-menu">
-                                    <li><a href="#">About us</a></li>
-                                    <li><a href="#">My profile</a></li>
-                                    <li><a href="#">Pricing plans</a></li>
-                                    <li><a href="#">Contacts</a></li>
+                                    <li><a href="#">Sobre nós</a></li>
+                                    <li><a href="#">Meu perfil</a></li>
+                                    <li><a href="#">Planos de preços</li>
+                                    <li><a href="#">Contatos</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1098,10 +1099,10 @@
                             <div class="content">
                                 <p><b>Help</b></p>
                                 <ul class="footer-menu">
-                                    <li><a href="#">About us</a></li>
-                                    <li><a href="#">My profile</a></li>
-                                    <li><a href="#">Pricing plans</a></li>
-                                    <li><a href="#">Contacts</a></li>
+                                    <li><a href="#">Sobre nós</a></li>
+                                    <li><a href="#">Meu perfil</a></li>
+                                    <li><a href="#">Planos de preços</li>
+                                    <li><a href="#">Contatos</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1131,7 +1132,7 @@
 
     <!-- COPYRIGHT SECTION -->
     <div class="copyright">
-        Copyright 2021 <a href="https://www.youtube.com/channel/UCnNgtK4tGlWcceXVzoyTg8Q" target="_blank">
+        Copyright 2021 For Flix<a href="https://www.youtube.com/channel/UCnNgtK4tGlWcceXVzoyTg8Q" target="_blank">
             Tuat Tran Anh</a>
     </div>
     <!-- END COPYRIGHT SECTION -->
