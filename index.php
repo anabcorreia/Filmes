@@ -670,7 +670,7 @@
                 <!-- END MOVIE ITEM -->
                 <!-- MOVIE ITEM -->
                 <a href="#" class="movie-item">
-                    <img src="./images/series/the-falcon.webp" alt="">
+                    <img src="images/series/the-falcon.jpg" alt="">
                     <div class="movie-item-content">
                         <div class="movie-item-title">
                             The Falcon And The Winter Soldier
