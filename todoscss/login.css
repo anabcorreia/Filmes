@@ -1,44 +1,59 @@
-#menu {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    font-size: 24px;
     text-align: center;
-    font-family: Verdana;
-    background-color: #9b9a9a;
-    color: #000000;
-    font-weight: bold;
-    font-size: 16pt;
-    width: 100vw;
-    height: 25vh;
-}
-
-#menu a {
-    text-decoration: none;
-    color: #ffffdf;
-}
-
-#menu a:hover {
-    text-decoration: none;
-    color: #000000;
-}
-
-#menu li {
-    display: inline;
-    padding: 0 20px 0 20px
-}
-
-#menu img {
-    width: 165px;
-    left: 0;
-    padding: 0 20px 0 20px;
-}
-.wall{
-    background-image: center;
-    background-size: cover;
+    margin-bottom: 20px;
+  }
+  
+  form input {
     width: 100%;
-} body{
-    display: flex;
-    align-items:center ;
-    justify-content: center;
-    height: 100vh;
-}
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #e50914;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #b2070f;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  p a {
+    color: #e50914;
+    text-decoration: none;
+  }
+  
+  p a:hover {
+    text-decoration: underline;
+  }
