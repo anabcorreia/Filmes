@@ -1,0 +1,43 @@
+#menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Verdana;
+    background-color: #9b9a9a;
+    color: #000000;
+    font-weight: bold;
+    font-size: 16pt;
+    width: 100vw;
+    height: 25vh;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #ffffdf;
+}
+
+#menu a:hover {
+    text-decoration: none;
+    color: #000000;
+}
+
+#menu li {
+    display: inline;
+    padding: 0 20px 0 20px
+}
+
+#menu img {
+    width: 165px;
+    left: 0;
+    padding: 0 20px 0 20px;
+}
+.wall{
+    background-image: center;
+    background-size: cover;
+    width: 100%;
+} body{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+}
