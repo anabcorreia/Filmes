@@ -30,10 +30,10 @@
                     <i class='bx bx-movie-play bx-tada main-color'></i>Fl<span class="main-color">i</span>x
                 </a>
                 <ul class="nav-menu" id="nav-menu">
-                    <li><a href="#">Pagina Inicial</a></li>
-                    <li><a href="#">Genero</a></li>
+                    <li><a href="#">Página Inicial</a></li>
+                    <li><a href="#">Gênero</a></li>
                     <li><a href="#">Filmes</a></li>
-                    <li><a href="#">Series</a></li>
+                    <li><a href="#">Séries</a></li>
                     <li><a href="#">Sobre</a></li>
                     <li>
                         <a href="#" class="btn btn-hover">
