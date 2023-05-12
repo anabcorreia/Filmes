@@ -1,113 +1,161 @@
+/* Reset CSS */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+/* Estilos gerais */
 body {
-    font-family:georgia;
-    font-size: 16px;
-    line-height: 1.6;
-    color: var(--primary-color);
-    background-color: var(--light-color);
-  }
-  
-  /* Cabeçalho */
-  
-  header {
-   
-    color: var(--light-color);
-    background-color: black;
-    padding: 0px 0  240px;
-    font-size: 20px;
-    height: 21px;
-    border-radius:15px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	color: #fff;
+	background-color: #141414;
+}
 
-    
-  }
-  
-  header a {
-    color: var(--light-color);
-    text-decoration: none;
-   
-  }
-  
-  header h1 {
-    margin: 0;
-    font-family: "Open Sans Bold", sans-serif;
-  
-  }
-  
-  nav {
-    display: flex;
-    justify-content: flex-end;
-  }
-  
-  nav ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    display: flex;
-  }
-  
-  nav li {
-    margin-left: 20px;
-    text-align: center;
-    padding: 0 43px 0 0 ;
+a {
+	color: #fff;
+	text-decoration: none;
+}
 
-  }
-  
-  nav a {
-    color: var(--light-color);
-    text-decoration: none;
-    text-transform: uppercase;
-  }
-  
-  nav a:hover {
-    color: red;
+ul {
+	list-style: none;
+}
 
-  }
-  
-  /* Conteúdo */
-  
-  main {
-    display: flex;
-    flex-wrap: wrap;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    
-  }
-  
-  section {
-    flex: 1;
-    margin: 10px;
-  }
-  
-  section h2 {
-    font-family: "Open Sans Bold", sans-serif;
-    color: var(--dark-color);
-  }
-  
-  section p {
-    font-family: "Open Sans Light", sans-serif;
-    color: var(--primary-color);
-  }
-  
-  /* Rodapé */
-  
-  footer {
-    background-color: black;
-    color: var(--light-color);
-    padding: 10px;
-    text-align: center;
-    border-radius: 7px;
-  }
-  
-  footer p {
-    margin: 0;
-  }
-  
-  footer a {
-    color: var(--light-color);
-    text-decoration: none;
-  }
-  
-  footer a:hover {
-    color: var(--secondary-color);
-  }
+/* Cabeçalho */
+header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 20px 0;
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	max-width: 1200px;
+	padding: 0 20px;
+}
+
+.logo {
+	width: 100px;
+	height: 100px;
+	margin-right: 20px;
+
+}
+
+nav ul {
+	display: flex;
+	align-items: center;
+}
+
+nav li {
+	margin-left: 20px;
+}
+
+/* Destaque */
+.destaque {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	padding: 100px 0;
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 100%;
+}
+
+.destaque h1 {
+	font-size: 48px;
+	margin-bottom: 20px;
+}
+
+.destaque p {
+	font-size: 24px;
+	margin-bottom: 40px;
+}
+
+.destaque button {
+	background-color: #e50914;
+	color: #fff;
+	font-size: 24px;
+	font-weight: bold;
+	padding: 20px 40px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.destaque button:hover {
+	background-color: #ff0000;
+}
+
+/* Categorias */
+.categorias {
+	width: 100%;
+	max-width: 1200px;
+	margin: 80px auto;
+}
+
+.categorias h2 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+.categorias ul {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.categorias li {
+	flex-basis: calc(25% - 20px);
+	margin-bottom: 40px;
+}
+
+.categorias img {
+	width: 100%;
+	height: auto;
+	border-radius: 4px;
+}
+
+.categorias p {
+	font-size: 24px;
+	margin-top: 10px;
+}
+
+/* Títulos recomendados */
+.recomendados {
+	width: 100%;
+	max-width: 1200px;
+	margin: 80px auto;
+}
+
+.recomendados h2 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+.recomendados ul {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.recomendados li {
+	flex-basis: calc(25% - 20px);
+	margin-bottom: 40px;
+}
+
+.recomendados img {
+	width: 100%;
+	height: auto;
+	border-radius: 4px;
+}
+
+.recomendados p {
+	font-size: 24px;
+	margin-top: 10px;
+}
