@@ -36,7 +36,7 @@
                     <li><a href="#">Séries</a></li>
                     <li><a href="#">Sobre</a></li>
                     <li>
-                        <a href="#" class="btn btn-hover">
+                        <a href="login.html" class="btn btn-hover">
                             <span>Login</span>
                         </a>
                     </li>

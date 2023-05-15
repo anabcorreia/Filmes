@@ -166,3 +166,38 @@ body::before {
 .terms a:hover {
     text-decoration: underline;
 }
+.main-color {
+    color: var(--main-color);
+}
+:root {
+    --main-color: #c0392b;
+    --body-bg: #181616;
+    --box-bg: #221f1f;
+    --text-color: #ffffff;
+
+    --nav-height: 60px;
+    --space-top: 30px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 99;
+    background-color: #000000;
+}
+
+.nav a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+.logo {
+    font-size: 2rem;    
+    font-weight: 900;
+}
