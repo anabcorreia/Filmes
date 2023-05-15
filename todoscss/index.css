@@ -106,12 +106,12 @@ main section .text{
     margin-top: 2em;
     font-size: 25px;
     color: #fff;
-    border-bottom: 4px solid #fff;
-    background: #0f79af;
+    border-bottom: 4px solid #6e199c;
+    background: #551A8B;
     transition: all .3s;
 }
 .btn-box2:hover{
-    background: #138ecc;
+    background: #333333;
 }
 .btn-box2 .play{
     width: 1.4em;
