@@ -7,16 +7,11 @@
     list-style: none;
     text-decoration: none;
 }
-<<<<<<< HEAD
 body{
     background-image:  url(../imagens/bg.jpg);
     height: 100vh;
     width: 100vw;
     background-color: #000000;
-=======
-body {
-    background-image: url(../imagens/bg.jpg);
->>>>>>> f8e030af2f94f225be222f525eabbce771d274c4
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
