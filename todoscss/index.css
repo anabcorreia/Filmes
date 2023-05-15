@@ -106,8 +106,8 @@ main section .text{
     margin-top: 2em;
     font-size: 25px;
     color: #fff;
-    border-bottom: 4px solid #6e199c;
-    background: #551A8B;
+    border-bottom: 4px solid #19529c;
+    background: #136bd6;
     transition: all .3s;
 }
 .btn-box2:hover{
@@ -169,7 +169,7 @@ h2{
     height: auto;
   }
 .lista{
-    color: white;
+    color: rgb(72, 0, 255);
     position: relative;
     text-align: center;
     font-size: 30px ;
@@ -177,7 +177,7 @@ h2{
     
 }
 h1{
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 33px;
     
     
