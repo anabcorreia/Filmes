@@ -137,3 +137,4 @@ footer .cards{
 .cards .card:hover ~ .card{
     transform: translateX(140px);
 }
+
