@@ -1,0 +1,64 @@
+
+#menu {
+    display:flex;
+     align-items:center;
+      justify-content:center;
+       text-align:center;
+        font-family:Verdana;
+         background-color:#0b4506;
+          color:#ffffdf;
+           font-weight:bold;
+            font-size:16pt;
+             width:100vw;
+              height:25vh;}
+  
+               #menu a {
+                text-decoration:none;
+                 color:#ffffdf;}
+         
+                   #menu a:hover {
+                     text-decoration:none;
+                      color:#9b1a26;}
+  
+                       #menu li {
+                         display: inline;
+                          padding: 0 20px 0 20px;}
+  
+                          #menu img {
+                           width: 165px;
+                           left: 0;
+                           margin: 0 20px 0 20px;
+                       }
+                                
+                              .div-imagens {
+                                 display:flex;
+                                 width: 90vw;
+                                 justify-content:space-between;
+                                 position: relative;
+                                 margin-left:5%;
+                                 margin-right:5%;
+                             }
+                             .img1 { 
+                               margin:5px;
+                               border:solid #0b4506 10px;
+                             }
+                             
+                             .div-preco {
+                                display:flex;
+                                justify-content: left;
+                               margin-top: -3%;
+                               margin-left: 10%;
+                            }
+                     
+                            .pizza-ind h2{
+                               margin-top:-5%;
+                               margin-left:5%;
+                               font-size:20px;
+                               color:#ff0019;
+                            }
+                          .img1:hover {transform: scale(1.1);
+                         cursor: pointer ;
+                       transition: .3s;}
+         
+  
+  
