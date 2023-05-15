@@ -86,6 +86,7 @@ main section .btn-box{
     color: #fff;
     border-bottom: 2px solid #fff;
     transition: all .3s;
+    
 }
 .btn-box .btn:hover{
     background: #2d3846;
@@ -95,7 +96,7 @@ main section .btn-box{
 }
 main section .text{
     color: #fff;
-    line-height: 22px;
+    line-height: 25px;
 }
 .btn-box2{
     display: flex;
@@ -109,6 +110,7 @@ main section .text{
     border-bottom: 4px solid #19529c;
     background: #136bd6;
     transition: all .3s;
+    
 }
 .btn-box2:hover{
     background: #333333;
@@ -230,4 +232,9 @@ p{
     color: rgb(171, 164, 164);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-bottom: 20px;
+}
+.text{
+    position: relative;
+   left: 20px;
+
 }
