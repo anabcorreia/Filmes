@@ -117,7 +117,7 @@ main section .text{
     width: 1.4em;
     filter: invert(1);
 }
-footer .cards{
+.cards{
     display: flex;
     flex-flow: row;
     align-items: center;
@@ -181,4 +181,53 @@ h1{
     font-size: 33px;
     
     
+}
+footer {
+    background-color: black;
+    color: var(--light-color);
+    padding: 10px;
+    text-align: center;
+    border-radius: 7px;
+  }
+  
+  footer p {
+    margin: 0;
+    color: white;
+  }
+  
+  footer a {
+    color: var(--light-color);
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    color: var(--secondary-color);
+  }
+  .success {
+    color: #f5f2f2;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+    background-color: #F90EE7;
+    border: 1px solid #f5c6cb;
+    border-radius: 15px;
+    padding: 10px;
+    
+  }
+  footer {
+    background-color: #000000;
+    padding: 30px;
+    text-align: center;
+  }
+  
+  .footer-container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+p{
+    font-size: 14px;
+    color: rgb(171, 164, 164);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
 }
